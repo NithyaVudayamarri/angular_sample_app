@@ -378,7 +378,7 @@
         "Processes": [
           {
             "ProcessName": "Manage Stakeholder engagement",
-            "ProcessDescription": "issue log, change requests, project management plan updates, project document updates"
+            "ProcessDescription": "issue log, change requests, project management plan updates, project document updates given"
           }
         ]
       },
@@ -388,7 +388,7 @@
         "Processes": [
           {
             "ProcessName": "Control stakeholder management",
-            "ProcessDescription": "work performance information, change requests, project document updates"
+            "ProcessDescription": "work performance information, change requests, project document updates provided"
           }
         ]
       }
