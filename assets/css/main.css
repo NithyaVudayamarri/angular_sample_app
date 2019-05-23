@@ -52,7 +52,7 @@ tr:nth-child(even) {
   
   .flip-card-front {
     background-color: #bbb;
-    color: white;
+    color: gray;
     z-index: 2;
   }
   
